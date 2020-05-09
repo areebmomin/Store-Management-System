@@ -17,6 +17,6 @@ Installation guide:
 
 Note: This project does not contain a signup module that means there is only one user account with credentials given below.
 
-username:admin
+username: admin
 
-password:admin
+password: admin
